@@ -1,0 +1,502 @@
+[
+  {
+    "question": "x+60=72,x=?",
+    "answer": 12,
+    "type": "x_left"
+  },
+  {
+    "question": "28+50=?",
+    "answer": 78,
+    "type": "basic"
+  },
+  {
+    "question": "29-9=?",
+    "answer": 20,
+    "type": "basic"
+  },
+  {
+    "question": "2*6=?",
+    "answer": 12,
+    "type": "basic"
+  },
+  {
+    "question": "x*82=82,x=?",
+    "answer": 1,
+    "type": "x_left"
+  },
+  {
+    "question": "77-54=?",
+    "answer": 23,
+    "type": "basic"
+  },
+  {
+    "question": "25+28=?",
+    "answer": 53,
+    "type": "basic"
+  },
+  {
+    "question": "x-6=10,x=?",
+    "answer": 16,
+    "type": "x_left"
+  },
+  {
+    "question": "58+40=?",
+    "answer": 98,
+    "type": "basic"
+  },
+  {
+    "question": "x-55=1,x=?",
+    "answer": 56,
+    "type": "x_left"
+  },
+  {
+    "question": "22-x=19,x=?",
+    "answer": 3,
+    "type": "x_right"
+  },
+  {
+    "question": "54-x=22,x=?",
+    "answer": 32,
+    "type": "x_right"
+  },
+  {
+    "question": "8+x=66,x=?",
+    "answer": 58,
+    "type": "x_right"
+  },
+  {
+    "question": "x-65=8,x=?",
+    "answer": 73,
+    "type": "x_left"
+  },
+  {
+    "question": "x+29=83,x=?",
+    "answer": 54,
+    "type": "x_left"
+  },
+  {
+    "question": "32-21=?",
+    "answer": 11,
+    "type": "basic"
+  },
+  {
+    "question": "65-x=24,x=?",
+    "answer": 41,
+    "type": "x_right"
+  },
+  {
+    "question": "37+x=67,x=?",
+    "answer": 30,
+    "type": "x_right"
+  },
+  {
+    "question": "0*35=?",
+    "answer": 0,
+    "type": "basic"
+  },
+  {
+    "question": "1+53=?",
+    "answer": 54,
+    "type": "basic"
+  },
+  {
+    "question": "x-41=15,x=?",
+    "answer": 56,
+    "type": "x_left"
+  },
+  {
+    "question": "31+x=91,x=?",
+    "answer": 60,
+    "type": "x_right"
+  },
+  {
+    "question": "12+50=?",
+    "answer": 62,
+    "type": "basic"
+  },
+  {
+    "question": "x-22=44,x=?",
+    "answer": 66,
+    "type": "x_left"
+  },
+  {
+    "question": "34+x=46,x=?",
+    "answer": 12,
+    "type": "x_right"
+  },
+  {
+    "question": "44+x=90,x=?",
+    "answer": 46,
+    "type": "x_right"
+  },
+  {
+    "question": "36+61=?",
+    "answer": 97,
+    "type": "basic"
+  },
+  {
+    "question": "67-x=65,x=?",
+    "answer": 2,
+    "type": "x_right"
+  },
+  {
+    "question": "10+5=?",
+    "answer": 15,
+    "type": "basic"
+  },
+  {
+    "question": "x+15=55,x=?",
+    "answer": 40,
+    "type": "x_left"
+  },
+  {
+    "question": "x+27=46,x=?",
+    "answer": 19,
+    "type": "x_left"
+  },
+  {
+    "question": "x+2=46,x=?",
+    "answer": 44,
+    "type": "x_left"
+  },
+  {
+    "question": "x-19=69,x=?",
+    "answer": 88,
+    "type": "x_left"
+  },
+  {
+    "question": "93-50=?",
+    "answer": 43,
+    "type": "basic"
+  },
+  {
+    "question": "77-61=?",
+    "answer": 16,
+    "type": "basic"
+  },
+  {
+    "question": "59+7=?",
+    "answer": 66,
+    "type": "basic"
+  },
+  {
+    "question": "x+5=53,x=?",
+    "answer": 48,
+    "type": "x_left"
+  },
+  {
+    "question": "93-x=75,x=?",
+    "answer": 18,
+    "type": "x_right"
+  },
+  {
+    "question": "37+x=73,x=?",
+    "answer": 36,
+    "type": "x_right"
+  },
+  {
+    "question": "46+x=56,x=?",
+    "answer": 10,
+    "type": "x_right"
+  },
+  {
+    "question": "53+x=60,x=?",
+    "answer": 7,
+    "type": "x_right"
+  },
+  {
+    "question": "89-x=73,x=?",
+    "answer": 16,
+    "type": "x_right"
+  },
+  {
+    "question": "28-25=?",
+    "answer": 3,
+    "type": "basic"
+  },
+  {
+    "question": "x-4=53,x=?",
+    "answer": 57,
+    "type": "x_left"
+  },
+  {
+    "question": "37+22=?",
+    "answer": 59,
+    "type": "basic"
+  },
+  {
+    "question": "9*6=?",
+    "answer": 54,
+    "type": "basic"
+  },
+  {
+    "question": "3*x=93,x=?",
+    "answer": 31,
+    "type": "x_right"
+  },
+  {
+    "question": "93-x=6,x=?",
+    "answer": 87,
+    "type": "x_right"
+  },
+  {
+    "question": "x-29=51,x=?",
+    "answer": 80,
+    "type": "x_left"
+  },
+  {
+    "question": "80-9=?",
+    "answer": 71,
+    "type": "basic"
+  },
+  {
+    "question": "x-5=72,x=?",
+    "answer": 77,
+    "type": "x_left"
+  },
+  {
+    "question": "x+6=16,x=?",
+    "answer": 10,
+    "type": "x_left"
+  },
+  {
+    "question": "98-x=53,x=?",
+    "answer": 45,
+    "type": "x_right"
+  },
+  {
+    "question": "28+x=98,x=?",
+    "answer": 70,
+    "type": "x_right"
+  },
+  {
+    "question": "x+21=46,x=?",
+    "answer": 25,
+    "type": "x_left"
+  },
+  {
+    "question": "81-x=63,x=?",
+    "answer": 18,
+    "type": "x_right"
+  },
+  {
+    "question": "11+22=?",
+    "answer": 33,
+    "type": "basic"
+  },
+  {
+    "question": "95-x=87,x=?",
+    "answer": 8,
+    "type": "x_right"
+  },
+  {
+    "question": "x-27=64,x=?",
+    "answer": 91,
+    "type": "x_left"
+  },
+  {
+    "question": "92+0=?",
+    "answer": 92,
+    "type": "basic"
+  },
+  {
+    "question": "x+69=71,x=?",
+    "answer": 2,
+    "type": "x_left"
+  },
+  {
+    "question": "x/10=3,x=?",
+    "answer": 30,
+    "type": "x_left"
+  },
+  {
+    "question": "x+16=67,x=?",
+    "answer": 51,
+    "type": "x_left"
+  },
+  {
+    "question": "59+13=?",
+    "answer": 72,
+    "type": "basic"
+  },
+  {
+    "question": "x-3=88,x=?",
+    "answer": 91,
+    "type": "x_left"
+  },
+  {
+    "question": "x-52=33,x=?",
+    "answer": 85,
+    "type": "x_left"
+  },
+  {
+    "question": "x+7=94,x=?",
+    "answer": 87,
+    "type": "x_left"
+  },
+  {
+    "question": "97-60=?",
+    "answer": 37,
+    "type": "basic"
+  },
+  {
+    "question": "93-x=87,x=?",
+    "answer": 6,
+    "type": "x_right"
+  },
+  {
+    "question": "1*65=?",
+    "answer": 65,
+    "type": "basic"
+  },
+  {
+    "question": "86-21=?",
+    "answer": 65,
+    "type": "basic"
+  },
+  {
+    "question": "1*92=?",
+    "answer": 92,
+    "type": "basic"
+  },
+  {
+    "question": "16+59=?",
+    "answer": 75,
+    "type": "basic"
+  },
+  {
+    "question": "84-43=?",
+    "answer": 41,
+    "type": "basic"
+  },
+  {
+    "question": "6+x=49,x=?",
+    "answer": 43,
+    "type": "x_right"
+  },
+  {
+    "question": "x/16=6,x=?",
+    "answer": 96,
+    "type": "x_left"
+  },
+  {
+    "question": "54-x=27,x=?",
+    "answer": 27,
+    "type": "x_right"
+  },
+  {
+    "question": "84-25=?",
+    "answer": 59,
+    "type": "basic"
+  },
+  {
+    "question": "x/2=16,x=?",
+    "answer": 32,
+    "type": "x_left"
+  },
+  {
+    "question": "x-4=46,x=?",
+    "answer": 50,
+    "type": "x_left"
+  },
+  {
+    "question": "57-x=15,x=?",
+    "answer": 42,
+    "type": "x_right"
+  },
+  {
+    "question": "x-71=8,x=?",
+    "answer": 79,
+    "type": "x_left"
+  },
+  {
+    "question": "50+x=95,x=?",
+    "answer": 45,
+    "type": "x_right"
+  },
+  {
+    "question": "38/x=38,x=?",
+    "answer": 1,
+    "type": "x_right"
+  },
+  {
+    "question": "39-x=27,x=?",
+    "answer": 12,
+    "type": "x_right"
+  },
+  {
+    "question": "52+x=68,x=?",
+    "answer": 16,
+    "type": "x_right"
+  },
+  {
+    "question": "19+54=?",
+    "answer": 73,
+    "type": "basic"
+  },
+  {
+    "question": "30+30=?",
+    "answer": 60,
+    "type": "basic"
+  },
+  {
+    "question": "46-40=?",
+    "answer": 6,
+    "type": "basic"
+  },
+  {
+    "question": "71-51=?",
+    "answer": 20,
+    "type": "basic"
+  },
+  {
+    "question": "x+13=52,x=?",
+    "answer": 39,
+    "type": "x_left"
+  },
+  {
+    "question": "23+x=34,x=?",
+    "answer": 11,
+    "type": "x_right"
+  },
+  {
+    "question": "x-31=34,x=?",
+    "answer": 65,
+    "type": "x_left"
+  },
+  {
+    "question": "x+22=58,x=?",
+    "answer": 36,
+    "type": "x_left"
+  },
+  {
+    "question": "77-x=1,x=?",
+    "answer": 76,
+    "type": "x_right"
+  },
+  {
+    "question": "7+x=99,x=?",
+    "answer": 92,
+    "type": "x_right"
+  },
+  {
+    "question": "x-31=54,x=?",
+    "answer": 85,
+    "type": "x_left"
+  },
+  {
+    "question": "30+x=53,x=?",
+    "answer": 23,
+    "type": "x_right"
+  },
+  {
+    "question": "21+x=99,x=?",
+    "answer": 78,
+    "type": "x_right"
+  },
+  {
+    "question": "63+13=?",
+    "answer": 76,
+    "type": "basic"
+  }
+]
